@@ -1,0 +1,16 @@
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\Dll_and_Dlx.dll
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\Dll_and_Dlx.pdb
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\NXOpen.dll
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\NXOpen.UF.dll
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\NXOpen.Utilities.dll
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\NXOpenUI.dll
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\NXOpen.xml
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\NXOpen.Utilities.xml
+E:\nx2022\NX\Dll_and_Dlx\bin\Debug\NXOpenUI.xml
+E:\nx2022\NX\Dll_and_Dlx\obj\Debug\Dll_and_Dlx.csproj.AssemblyReference.cache
+E:\nx2022\NX\Dll_and_Dlx\obj\Debug\Dll_and_Dlx.csproj.CoreCompileInputs.cache
+E:\nx2022\NX\Dll_and_Dlx\obj\Debug\Dll_and_.774AF6A0.Up2Date
+E:\nx2022\NX\Dll_and_Dlx\obj\Debug\Dll_and_Dlx.dll
+E:\nx2022\NX\Dll_and_Dlx\obj\Debug\Dll_and_Dlx.pdb
+E:\nx2022\NX\Dll_and_Dlx\obj\Debug\Dll_and_Dlxs.Properties.Resources.resources
+E:\nx2022\NX\Dll_and_Dlx\obj\Debug\Dll_and_Dlx.csproj.GenerateResource.cache
